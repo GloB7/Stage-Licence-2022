@@ -8,7 +8,7 @@ Vous trouverez tous nos fichiers ici:
 * Pour le Web : 
 * * index.html contient la quasi-totalité du site
 * * style.css 
-* * un dossier contenant 3 images
-* Le fichier "capteur_CO2.ino" qui est le programme d'électronique de la carte ESP32
+* * 3 images : userfe.png, userho.png, logo.png
+* Le fichier "capteur_CO2.ino" : le programme d'électronique en Arduino de la carte ESP32
 * Un tutoriel pour vous guider dans le travail
 * Nos rapports de stage pour plus de détails
